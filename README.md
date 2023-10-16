@@ -6,5 +6,6 @@
 | Дмитрий | Старший Backend|
 | Гриша | Backend |
 | Никита | Backend |
-| Алексей | Product-менеджер |
 | Андрей | Backend |
+| Алексей | Product-менеджер |
+
