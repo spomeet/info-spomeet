@@ -7,6 +7,7 @@
 | Гриша | Backend |
 | Никита | Backend |
 | Андрей | Backend |
+| Илья | Backend |
 | Алексей | Product-менеджер |
 
 
