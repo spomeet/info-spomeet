@@ -1,14 +1,14 @@
 # О проекте Spomeet
 
 | Команда | Должность|
-| ------------- | ------------- |
-| Малик| Старший Frontend |
-| Дмитрий | Старший Backend|
-| Гриша | Backend |
-| Никита | Backend |
-| Андрей | Backend |
-| Илья | Backend |
-| Алексей | Product-менеджер |
+| ------------- | ------------- | ------------- |
+| Малик| Старший Frontend | Старший Frontend |
+| Дмитрий | Старший Backend| Старший Frontend |
+| Гриша | Backend | Старший Frontend |
+| Никита | Backend | Старший Frontend |
+| Андрей | Backend | Старший Frontend |
+| Илья | Backend | Старший Frontend |
+| Алексей | Product-менеджер | Старший Frontend |
 
 
 
