@@ -7,7 +7,8 @@
 | Гриша | Backend |  |
 | Никита | Backend |  |
 | Андрей | Backend |  |
-| Илья | Backend | Старший Frontend |
+| Илья | Backend | ![a04dabc4-57b1-4644-88ab-4c3532bdffac](https://github.com/spomeet/info-spomeet/assets/126795153/2114ad93-56c2-4660-a155-c49e7f6cc176) |
+
 | Алексей | Product-менеджер |  |
 
 
