@@ -4,7 +4,6 @@
 | ------------- | ------------- | ------------- |
 | Малик| Старший Frontend |  |
 | Дмитрий | Старший Backend|  |
-| Гриша | Backend |  |
 | Никита | Backend |  |
 | Андрей | Backend |  |
 | Илья | Backend | ![a04dabc4-57b1-4644-88ab-4c3532bdffac](https://github.com/spomeet/info-spomeet/assets/126795153/1463df07-b700-4601-9b92-355d9be987c8) |
